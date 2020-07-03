@@ -1,0 +1,9 @@
+USAGE:
+  python server.py
+
+REQUIREMENTS:
+  python and bottlepy
+    pip install bottle
+
+  groff
+    sudo apt install groff
